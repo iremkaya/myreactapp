@@ -1,0 +1,22 @@
+{
+  "name": "myreactappp",
+  "version": "1.0.0",
+  "description": "açıklama",
+  "main": "index.js",
+  "scripts": {
+    "test": "test "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iremkaya/myreactapp.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "irem",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/iremkaya/myreactapp/issues"
+  },
+  "homepage": "https://github.com/iremkaya/myreactapp#readme"
+}
